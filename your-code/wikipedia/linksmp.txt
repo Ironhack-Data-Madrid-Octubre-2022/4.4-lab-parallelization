@@ -1,0 +1,1 @@
+<bound method ApplyResult.get of <multiprocessing.pool.MapResult object at 0x0000014BD9C56250>>
